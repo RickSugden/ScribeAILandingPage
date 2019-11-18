@@ -17631,6 +17631,14 @@ footer .pull-center {
   .navbar.navbar-transparent .navbar-toggler .navbar-toggler-icon {
     background-color: #fff;
   }
+
+  .logo-image{
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+}
   #bodyClick {
     height: 100%;
     width: 100%;
