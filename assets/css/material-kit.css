@@ -16173,7 +16173,7 @@ footer ul li a {
 }
 
 footer ul li a:hover {
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 footer ul li .btn {
