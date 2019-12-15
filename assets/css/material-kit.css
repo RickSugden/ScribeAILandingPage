@@ -8894,8 +8894,8 @@ button:focus {
 
 .btn.btn-primary {
   color: #fff;
-  background-color: #9c27b0;
-  border-color: #9c27b0;
+  background-color: #680383 ;
+  border-color: #680383 ;
   box-shadow: 0 2px 2px 0 rgba(156, 39, 176, 0.14), 0 3px 1px -2px rgba(156, 39, 176, 0.2), 0 1px 5px 0 rgba(156, 39, 176, 0.12);
 }
 
@@ -14616,7 +14616,7 @@ textarea {
 }
 
 .info .icon {
-  color: #999999;
+  color: #3C4858;
 }
 
 .info .icon>i {
@@ -14629,7 +14629,7 @@ textarea {
 }
 
 .info p {
-  color: #999999;
+  color: #3C4858;
 }
 
 .info-horizontal .icon {
@@ -14772,7 +14772,7 @@ small,
 .footer-big h4,
 .media .media-heading {
   font-weight: 700;
-  font-family: "Roboto Slab", "Times New Roman", serif;
+  font-family: "Roboto", "Times New Roman", serif;
 }
 
 .title,
@@ -14800,7 +14800,7 @@ h2.title {
 .description,
 .card-description,
 .footer-big p {
-  color: #999;
+  color: #3C4858;
 }
 
 .text-warning {
@@ -16141,7 +16141,8 @@ fieldset[disabled] .form-group.is-focused .togglebutton label {
 }
 
 footer {
-  padding: 0.9375rem 0;
+  background: #680383;
+  padding: 2rem;
   text-align: center;
   display: -webkit-flex;
   /* Safari */
@@ -16160,10 +16161,10 @@ footer ul li {
 }
 
 footer ul li a {
-  color: inherit;
+  color: #fff;
   padding: 0.9375rem;
   font-weight: 500;
-  font-size: 12px;
+  font-size: 10px;
   text-transform: uppercase;
   border-radius: 3px;
   text-decoration: none;
